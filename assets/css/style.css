@@ -653,6 +653,15 @@ section {
   background: #fff;
 }
 
+.services .bi {
+  color: #ffc451;
+}
+
+.services hr {
+  color: white;
+
+}
+
 .services .icon-box .icon {
   margin: 0 auto;
   width: 64px;
