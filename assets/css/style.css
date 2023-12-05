@@ -120,6 +120,7 @@ h6 {
 #header.header-scrolled,
 #header.header-inner-pages {
   background: rgba(0, 0, 0, 0.8);
+
 }
 
 #header .logo {
@@ -611,6 +612,10 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+.bi-circle-fill {
+  margin-right: 5px;
+}
+
 .services .icon-box {
   text-align: center;
   border: 1px solid #ebebeb;
@@ -719,12 +724,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 #contact {
-  color: white;
-  background-color: #151515;
-}
-
-.map {
-  filter: grayscale(100%) invert(92%) contrast(83%);
+  color: black;
+  background-image: url(../img/bgfoot.png);
 }
 
 .contact .info {
@@ -732,7 +733,7 @@ section {
 }
 
 .contact .section-title p {
-  color: white;
+  color: black;
 }
 
 .contact .info i {
@@ -754,19 +755,19 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #ffffff;
+  color: #000000;
 }
 
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #ececec;
+  color: #181818;
 }
 
 .contact .info .email,
 .contact .info .phone {
-  margin-top: 40px;
+  margin-top: 50px;
 }
 
 @keyframes animate-loading {
