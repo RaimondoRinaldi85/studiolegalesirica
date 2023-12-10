@@ -726,6 +726,7 @@ section {
 #contact {
   color: black;
   background-image: url(../img/bgfoot.png);
+  background-size: cover;
 }
 
 .contact .info {
