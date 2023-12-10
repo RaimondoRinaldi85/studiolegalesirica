@@ -770,6 +770,19 @@ section {
   margin-top: 50px;
 }
 
+.hv-contact {
+  border: 1px solid #ffbb38;
+  border-radius: 5px;
+  padding: 1rem
+}
+
+.hv-contact:hover {
+  border: 1px solid white;
+  padding: 1rem;
+  background-color: #ffbb38;
+  transition: all 0.3s ease-in-out;
+}
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
@@ -934,13 +947,13 @@ section {
 
 
 
-
+/*Accordion*/
 
 
 .accordion {
   width: 90%;
   max-width: 1000px;
-  margin: 2rem auto;
+  margin: auto;
 }
 
 .accordion-item {
@@ -1007,3 +1020,5 @@ section {
   padding: 0 1rem 1rem 1rem;
   color: rgb(43, 43, 43);
 }
+
+/* fixed social bar*/
