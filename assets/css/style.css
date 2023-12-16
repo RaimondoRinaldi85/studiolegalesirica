@@ -25,8 +25,6 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
-
-
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -122,7 +120,6 @@ h6 {
 #header.header-scrolled,
 #header.header-inner-pages {
   background: rgba(0, 0, 0, 0.8);
-
 }
 
 #header .logo {
@@ -767,7 +764,6 @@ section {
   transform: translateY(-10px);
 }
 
-
 /*--------------------------------------------------------------
 # Quote
 --------------------------------------------------------------*/
@@ -776,10 +772,6 @@ section {
   background-position: center;
   background-size: cover;
 }
-
-
-
-
 
 /*--------------------------------------------------------------
 # Cta
@@ -1045,14 +1037,7 @@ section {
   background-color: black;
 }
 
-
-
-
-
-
 /*Accordion*/
-
-
 .accordion {
   width: 90%;
   max-width: 1000px;
@@ -1124,5 +1109,3 @@ section {
   padding: 0 1rem 1rem 1rem;
   color: rgb(43, 43, 43);
 }
-
-/* fixed social bar*/
